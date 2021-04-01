@@ -266,3 +266,12 @@ python              3.7.3-stretch       34a518642c76        21 months ago       
 [2021-03-31 16:09:53,000] INFO in app: Prediction Output: 
 [20.35373177134412]
 172.17.0.1 - - [31/Mar/2021 16:09:53] "POST /predict HTTP/1.1" 200 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 166-138-957
