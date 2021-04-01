@@ -21,9 +21,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 **The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
-[![CircleCI](https://circleci.com/gh/circleci/Udacity-DevOps-Microservices.svg?style=svg)](https://circleci.com/gh/circleci/Udacity-DevOps-Microservices)
-
-
+[![CircleCI](https://circleci.com/gh/circleci/Udacity-DevOps-Microservices.svg?style=svg&circle-token=69f291150104ac84a680348d1cbf0c62b2d06c93)](https://circleci.com/gh/circleci/Udacity-DevOps-Microservices)
 ---
 
 ## Setup the Environment
